@@ -93,3 +93,5 @@ findbugs:
 
 BUILD SUCCESSFUL
 Total time: 7 seconds
+
+Selesai.
